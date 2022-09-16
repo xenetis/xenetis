@@ -17,9 +17,9 @@
 
 
 #### :fire: Stats
-![Xenetis's Github Stats](https://github-readme-stats.vercel.app/api?username=xenetis&show_icons=true&count_private=true)
+![Xenetis's Github Stats](https://github-readme-stats.vercel.app/api?username=xenetis&show_icons=true&count_private=true&theme=gotham)
 
-![Xenetis's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenetis&hide=TeX&layout=compact)
+![Xenetis's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenetis&hide=TeX&theme=gotham)
 
 
 <!--
