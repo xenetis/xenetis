@@ -1,8 +1,24 @@
-### Hi there 👋
+### Hi I'm Xenetis 👋
+
+#### :hammer_and_wrench: Languages and Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="40" height="40" title="Debian"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" title="Ubuntu"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" title="PHP"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" title="Javascript"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="40" height="40" title="Nginx"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="40" title="Bash"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>&nbsp;
+</div>  
 
 
 #### :fire: Stats
-![Xenetis's github stats](https://github-readme-stats.vercel.app/api?username=xenetis&show_icons=true&count_private=true)
+![Xenetis's Github Stats](https://github-readme-stats.vercel.app/api?username=xenetis&show_icons=true&count_private=true)
+![Xenetis's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenetis&hide=TeX&layout=compact)
 
 
 <!--
